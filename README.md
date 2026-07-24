@@ -99,7 +99,7 @@ Key patterns were identified between:
 
 ### Correlation Matrix
 
-![Correlation Matrix](Images/correlation_matrix.png)
+![Correlation Matrix](Images/Correlation_Matrix.png)
 
 ---
 
@@ -107,7 +107,7 @@ Key patterns were identified between:
 
 The Elbow Method was used to determine the optimal number of customer clusters.
 
-![Elbow Method](Images/elbow_method.png)
+![Elbow Method](Images/Elbow_Method.png)
 
 ---
 
@@ -115,7 +115,7 @@ The Elbow Method was used to determine the optimal number of customer clusters.
 
 Customers were successfully grouped into different clusters based on Annual Income and Spending Score.
 
-![Customer Segmentation](Images/cluster_centroids.png)
+![Customer Segmentation](Images/Cluster_Centroids.png)
 
 
 ---
