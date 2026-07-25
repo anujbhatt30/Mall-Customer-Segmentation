@@ -298,7 +298,6 @@ Possible improvements:
 
 **Anuj Bhatt**
 
-🎓 MBA (AI & Data Science) Student
 
 GitHub:
 https://github.com/anujbhatt30
