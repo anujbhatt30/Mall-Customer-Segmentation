@@ -63,7 +63,68 @@ The dataset contains information about mall customers.
 
 ---
 
-# 🔍 Project Workflow
+## Workflow
+
+                ┌────────────────────────┐
+                │   Load Dataset         │
+                └──────────┬─────────────┘
+                           │
+                           ▼
+                ┌────────────────────────┐
+                │ Data Exploration (EDA) │
+                └──────────┬─────────────┘
+                           │
+                           ▼
+                ┌────────────────────────┐
+                │ Data Preprocessing     │
+                │ • Check Missing Values │
+                │ • Select Features      │
+                │ • Feature Scaling      │
+                └──────────┬─────────────┘
+                           │
+                           ▼
+                ┌────────────────────────┐
+                │ Feature Selection      │
+                │ (Income & Spending)    │
+                └──────────┬─────────────┘
+                           │
+                           ▼
+                ┌────────────────────────┐
+                │ Find Optimal K         │
+                │ (Elbow Method)         │
+                └──────────┬─────────────┘
+                           │
+                           ▼
+                ┌────────────────────────┐
+                │ Train K-Means Model    │
+                └──────────┬─────────────┘
+                           │
+                           ▼
+                ┌────────────────────────┐
+                │ Assign Cluster Labels  │
+                └──────────┬─────────────┘
+                           │
+                           ▼
+                ┌────────────────────────┐
+                │ Visualize Clusters &   │
+                │ Centroids              │
+                └──────────┬─────────────┘
+                           │
+                           ▼
+                ┌────────────────────────┐
+                │ Analyze Customer       │
+                │ Segments               │
+                └──────────┬─────────────┘
+                           │
+                           ▼
+                ┌────────────────────────┐
+                │ Business Insights &    │
+                │ Recommendations        │
+                └────────────────────────┘
+                
+---
+
+# 🔍 Project Description
 
 ## 1. Data Collection
 
