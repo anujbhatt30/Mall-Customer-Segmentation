@@ -341,6 +341,8 @@ Mall-Customer-Segmentation
 
 Possible improvements:
 
+- Correlation Matrix (Feature Correlation Analysis) 
+ 
 - Try advanced clustering algorithms:
   - DBSCAN
   - Hierarchical Clustering
